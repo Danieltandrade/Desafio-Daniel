@@ -71,6 +71,13 @@ Na última etapa do código, chamei a função __"console.log()"__ para exibir n
 console.log("O Herói de nome " + nome + ", está no nível de " + nivel + ".")
 ```
 
+## Testando Código
+
+Neste teste verifiquei se a lógica está correta e para isso, escrevi na variável __"experiencia"__ 4 valores diferentes, sendo eles (500, 3100, 6500, 11000), acompanhando no terminal do __VS Code__ cada resultado testado, com o código funcionando corretamente, conforme imagem abaixo:
+
+<img src="Input/TesteTerminal.JPG">
+
+
 ## Conclusão
 
 Como meu primeiro projeto de __Lógica de Programação__, fiquei muito feliz com o resultado, principalmente porquê estou utilizando uma linguagem de programação que ainda não domino.
