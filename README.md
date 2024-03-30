@@ -1,6 +1,7 @@
 # Desafio-Daniel
 
 Primeiro desafio do curso Lógica de Programação DIO.
+
 Instrutor: Felipão [DIO.me](https://www.dio.me/)
 
 ## Desafio
@@ -17,7 +18,7 @@ Desafio é criar uma lógica que escreve na saída o nome do herói e seu nível
 - Se XP for entre 9.001 e 10.000= __Imortal__
 - Se XP for maior ou igual a 10.001 = __Radiante__
 
-Ao final deve será exibida a mensagem:
+Ao final será exibida a mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
 ## Criando Repositório
@@ -26,7 +27,7 @@ Primeiramente criei o repositório no __GitHub__ com nome __"Desafio-Daniel"__ e
 
 ## Abrindo Visual Studio Code
 
-Para este projeto eu utilizei o __VS Code da Microsoft__, que é gratuito e fácil de usar. Lembro que eu não tenho experiência com programação, então decidi instalar o VS Code de vido a opiniões de especialistas e também por recomendação do instrutor __Felipão__.
+Para este projeto eu utilizei o __VS Code da Microsoft__, que é gratuito e fácil de usar. Não tenho experiência com programação, então decidi instalar o VS Code devido a opiniões de especialistas e também por recomendação do instrutor __Felipão__.
 
 ## Criando o Projeto
 
@@ -64,7 +65,7 @@ if(experiencia <= 1000){
 }
 ```
 
-Na última etapa do código chamei a função __"console.log()"__ para exibir no terminal o conteúdo pedido no desáfio de projeto.
+Na última etapa do código, chamei a função __"console.log()"__ para exibir no terminal o conteúdo pedido no desáfio de projeto.
 
 ```
 console.log("O Herói de nome " + nome + ", está no nível de " + nivel + ".")
@@ -84,7 +85,7 @@ Como meu primeiro projeto de __Lógica de Programação__, fiquei muito feliz co
 
 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 - ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
