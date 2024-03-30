@@ -1,21 +1,21 @@
 # Desafio-Daniel
 
 Primeiro desafio do curso Lógica de Programação DIO.
-Instrutor: Felipão DIO.me
+Instrutor: Felipão [DIO.me](https://www.dio.me/)
 
 ## Desafio
 
 Classificador de nível de herói.
 Desafio é criar uma lógica que escreve na saída o nome do herói e seu nível, conforme níveis definidos abaixo:
 
-- Se XP for menor do que 1.000 = Ferro
-- Se XP for entre 1.001 e 2.000 = Bronze
-- Se XP for entre 2.001 e 5.000 = Prata
-- Se XP for entre 5.001 e 7.000 = Ouro
-- Se XP for entre 7.001 e 8.000 = Platina
-- Se XP for entre 8.001 e 9.000 = Ascendente
-- Se XP for entre 9.001 e 10.000= Imortal
-- Se XP for maior ou igual a 10.001 = Radiante
+- Se XP for menor do que 1.000 = __Ferro__
+- Se XP for entre 1.001 e 2.000 = __Bronze__
+- Se XP for entre 2.001 e 5.000 = __Prata__
+- Se XP for entre 5.001 e 7.000 = __Ouro__
+- Se XP for entre 7.001 e 8.000 = __Platina__
+- Se XP for entre 8.001 e 9.000 = __Ascendente__
+- Se XP for entre 9.001 e 10.000= __Imortal__
+- Se XP for maior ou igual a 10.001 = __Radiante__
 
 Ao final deve será exibida a mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
@@ -69,3 +69,23 @@ Na última etapa do código chamei a função __"console.log()"__ para exibir no
 ```
 console.log("O Herói de nome " + nome + ", está no nível de " + nivel + ".")
 ```
+
+## Conclusão
+
+Como meu primeiro projeto de __Lógica de Programação__, fiquei muito feliz com o resultado, principalmente porquê estou utilizando uma linguagem de programação que ainda não domino.
+
+## Linguagens de Marcação e Programação
+
+- ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Ferramentas e Serviços
+
+- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+- ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
