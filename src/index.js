@@ -21,7 +21,7 @@ Ao final deve será exibida a mensagem:
 
 let nome = "Daniel"     //Variável tipo String com nome do herói
 let experiencia = 5000  //Variável tipo Number com experiência do herói
-let nivel = ""          //Variável tipo String para armazenar nível do herói, iniciando com vazio
+let nivel = ""          //Variável tipo String para armazenar nível do herói, iniciando com "vazio"
 
 if(experiencia <= 1000){  //Se XP for menor do que 1.000 = Ferro
     nivel = "Ferro"
